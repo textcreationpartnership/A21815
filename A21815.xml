@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation against retainers</title>
+            <title>Proclamations. 1583-04-19</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1583</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21815</idno>
+            <idno type="STC">STC 8140</idno>
+            <idno type="STC">ESTC S115354</idno>
+            <idno type="EEBO-CITATION">99850573</idno>
+            <idno type="PROQUEST">99850573</idno>
+            <idno type="VID">15784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15784)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation against retainers</title>
+                  <title>Proclamations. 1583-04-19</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1583]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Domestics --  Early works to 1800.</term>
+               <term>Livery --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15784:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>By the Queene.</head>
+            <head type="sub">A Proclamation against Retainers.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here as the Queenes Maieſtie waying the great inconueniences and enormities that haue vniuerſally growen within this her Realme, by the vnlawfull retai<g ref="char:EOLhyphen"/>ning of multitude of vnordinarie ſeruants, by liueries and otherwiſe, contrary to the good, and ancient lawes, and ſtatutes of this Realme, hath therefore by her Proclamation notified the ſame, and the daungers and penalties of the ſayde lawes vnto her louing Subiectes, giuing vnto them expreſſe admonition, that if they ſhoulde not thereupon forbeare any further to offende therein: That her Ma<g ref="char:EOLhyphen"/>ieſties will and pleaſure was, that the ſayde Lawes and Statutes ſhoulde be ſtreightly put in execution, and the penalties and forfeitures growing thereby to her Highneſſe for the offences committed againſt the ſame, to be duely leuyed. Whereof notwithſtanding, there <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath followed ſuch reformacion in the behalfe, as was expected, (but the ſayde miſchiefes and enormities <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e rather daily more and more encreaſed) neither haue the ſaid Lawes hitherunto bene put in execution, accor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to the ſayde former Proclamation. Wherein hath appeared moſt wilfull contempt in the Offendors, and great negligence and lacke of dutifull care in thoſe, to whome the execution of the ſaid lawes and Statutes was commit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> which might iuſtly moue her Highneſſe to vſe therein hereafter all ſeueritie and extremitie. Yet neuertheleſſe her <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hauing an earneſt and moſt godly intention, to procure ſpeedy reformation of ſo pernicious a ſore in this Common wealth: And of her gratious and mercifull diſpoſicion, tendring more the quiet reformation of the faults, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to enriche her treaſure by the great forfaitures which by iuſtice are due vnto her in the ſtreight execution of the ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d lawes, meaneth to make ſome further triall before ſhe proceede to the ſeuere execution of the ſame. And therefore to the ende that ſuch as haue offended in this behalfe (either by vnlawful retaining, or by being vnlawfully retained <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uery, badges, promes, or otherwiſe) being eftſones admoniſhed of the dangers &amp; penalties of the ſaide lawes and Statutes, and of her Maieſties will and pleaſure for the ſtraight execution of the ſame hereafter, may haue conue<g ref="char:EOLhyphen"/>ment tune and reſpit to reforme themſelues and to eſchewe the perils and dangers of the ſaid lawes: Her Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtie of her ſpeciall grace, doeth by this her proclamation notifie to al her louing ſubiects, of what eſtate or degree ſo<g ref="char:EOLhyphen"/>euer they be, that whoſoeuer after the laſt day of May next comming, ſhal vnlawfully retayne, or be retayned by ly<g ref="char:EOLhyphen"/>uery, badges, token, promiſe, or any other meanes whatſoeuer, co<g ref="char:cmbAbbrStroke">̄</g>trary to the lawes &amp; ſtatutes of this realme in that behalfe prouided, ſhall not haue any maner of fauour or grace of her Maieſtie for any ſuch offence committed, or to be committed againſt the ſaide lawes, but that the whole penalties, for faitures, &amp; puniſhments limited and appointed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame lawes and ſtatutes, ſhall with all ſeueritie be extended againſt them, aſwel for their offences committed before the ſaid laſt day of May, as after. And for the better reformation of the great inconueniences &amp; miſchiefes afor<g ref="char:EOLhyphen"/>ſaid and to the end that the ſaide lawes &amp; ſtatutes, may be hereafter the more duely &amp; ſeuerely executed, her Maieſtie ſtraightly chargeth &amp; co<g ref="char:cmbAbbrStroke">̄</g>mandeth al maner her Iuſtices &amp; officers to whome the execution of the ſame appertayneth, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cauſe inquiſition and examination according to the ſame Lawes, to be made in al places of the Realme, as ſoone <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conueniently they may after the ſaide laſt day of May next comming. And alſo willeth and commandeth that all Iuſtices of Iſſiles and Gaole deliuerie, ſhall at their next Seſſions, and ſo at all Seſſions after, haue due regarde that no perſon that is ſo vnlawfully reteyned, be hereafter admitted to ſerue in any Iurie before them. And ſhal alſo <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> euery ſuch Seſſions, cauſe diligent inquiſition to be made by a ſufficient Iurie, of the points and Articles of al the Statutes being in force againſt vnlawfull reteyners, &amp; ſpecially of the Statute made in the eyght yere of the reigne of being Edward the fourth, and in the third yere of the reigne of her Maieſties moſt noble Grandfather king Henry the ſeuenth, and to take ſpeciall order, that ſome good euidence may be giuen to the ſame Iurie in that behalfe. And <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ther at their ſaid Seſſions from time to time, to vſe their vttermoſt care &amp; diligence for the doing of al things, wher<g ref="char:EOLhyphen"/>by the inconueniences before mentioned, may be the more ſpeedily reformed, &amp; the Lawes in this behalfe hereafter the better obſerued and executed.</p>
+            <closer>
+               <dateline>Giuen at her Maieſties Manor of Greenewich <date>the xix. Day of April, in the fine and twentieth yere of her Highnes reigne. 1583.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Chriſtopher Barker, Printer to the Queenes moſt excellent <hi>Maiestie.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
